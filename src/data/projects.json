@@ -1,0 +1,23 @@
+[
+  {
+    "id": "hermods",
+    "name": "Hermods",
+    "url": "http://www.hermods.se/",
+    "current": false,
+    "tags": ["cms", "django cms"]
+  },
+  {
+    "id": "uniross",
+    "name": "Uniross",
+    "url": "http://www.uniross.com/",
+    "current": false,
+    "tags": ["cms", "wordpress"]
+  },
+  {
+    "id": "intra",
+    "name": "Stockholm Stads Intranät",
+    "url": "http://www.stockholm.se/",
+    "current": false,
+    "tags": ["cms", "episerver"]
+  }
+]

@@ -1,0 +1,28 @@
+
+.root {
+  background: #CCD6EB;
+  position: relative;
+  min-height: 300px;
+  display: flex;
+}
+
+.root:after {
+  position: absolute;
+  content: " ";
+  display: block;
+  left: 0;
+  bottom: -50px;
+  width: 100%;
+  border-style: solid;
+  border-width: 0 100vw 50px 0;
+  border-color: transparent #CCD6EB transparent transparent;
+}
+
+.main {
+  margin: 0 auto;
+  max-width: 960px;
+  display: flex;
+  flex: 1;
+  align-self: flex-end;
+  margin-bottom: 120px;
+}

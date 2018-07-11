@@ -1,0 +1,119 @@
+[
+  {
+    "id": "cms",
+    "items": [
+      {
+        "name": "EPIServer",
+        "url": "https://www.episerver.com/",
+        "current": false
+      },
+      {
+        "name": "Wordpress",
+        "url": "https://wordpress.org/",
+        "current": false
+      },
+      {
+        "name": "Django CMS",
+        "url": "https://www.django-cms.org",
+        "current": false
+      },
+      {
+        "name": "Drupal",
+        "url": "https://www.drupal.org/",
+        "current": false
+      },
+      {
+        "name": "Contentful",
+        "url": "https://www.contentful.com/",
+        "current": true
+      }
+    ]
+  },
+  {
+    "id": "frameworks",
+    "items": [
+      {
+        "name": "Backbone",
+        "url": "http://backbonejs.org/",
+        "current": false,
+        "children": [
+          {
+            "name": "Marionette",
+            "url": "https://marionettejs.com/",
+            "current": false
+          }
+        ]
+      },
+      {
+        "name": "Angular",
+        "url": "https://angular.io/",
+        "current": true
+      },
+      {
+        "name": "React",
+        "url": "https://reactjs.org/",
+        "current": true
+      }
+    ]
+  },
+  {
+    "id": "server",
+    "items": [
+      {
+        "name": "Express",
+        "url": "https://expressjs.com/",
+        "current": true
+      },
+      {
+        "name": "Koa",
+        "url": "http://koajs.com/",
+        "current": true
+      },
+      {
+        "name": "Laravel",
+        "url": "https://laravel.com/",
+        "current": false
+      },
+      {
+        "name": "CodeIgniter",
+        "url": "https://codeigniter.com/",
+        "current": false
+      }
+    ]
+  },
+  {
+    "id": "static",
+    "items": [
+      {
+        "name": "Gatsby",
+        "url": "https://www.gatsbyjs.org/",
+        "current": true
+      },
+      {
+        "name": "Harp",
+        "url": "http://harpjs.com/",
+        "current": true
+      },
+      {
+        "name": "Assemble",
+        "url": "http://assemble.io/",
+        "current": false
+      }
+    ]
+  },
+  {
+    "id": "mobile", 
+    "items": [
+      {
+        "name": "Phonegap",
+        "url": "https://phonegap.com/",
+        "current": false
+      },
+      {
+        "name": "Sencha Touch",
+        "url": "https://www.sencha.com/products/touch/",
+        "current": false
+      }
+    ]
+  }
+]

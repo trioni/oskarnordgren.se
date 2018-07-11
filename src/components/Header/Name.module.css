@@ -1,0 +1,9 @@
+.firstName {
+  text-transform: lowercase;
+  color: #A3BAC3;
+}
+
+.lastName {
+  text-transform: uppercase;
+  color: #007090;
+}

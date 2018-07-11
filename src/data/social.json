@@ -1,0 +1,25 @@
+[
+  {
+    "id": "linkedin",
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/in/oskarnordgren/",
+    "color": "#0077b5"
+  },
+  {
+    "id": "github",
+    "name": "Github",
+    "url": "https://github.com/trioni",
+    "color": "gray"
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "url": "https://www.instagram.com/oskar_nordgren/",
+    "color": "#517fa4"
+  },
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "color": "#3b5998"
+  }
+]
